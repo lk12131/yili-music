@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.hgx</groupId>
-    <artifactId>yili_music</artifactId>
+    <artifactId>yili-music</artifactId>
     <version>0.0.1</version>
     <name>yili_music</name>
     <description>Demo project for Spring Boot</description>
